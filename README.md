@@ -1,7 +1,7 @@
 # SlimeSurvival_SourceCode
 
 ## 📌Code Setting
-📦Assets     
+>📦Assets     
  ┣ 📂ScriptableObjects    
  ┃ ┣ 📂Scripts ▶ ScriptableObject를 이용한 스크립트       
  ┃ ┃ ┣ 📜AttackSO.cs    
