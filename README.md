@@ -1,6 +1,6 @@
 # SlimeSurvival_SourceCode
 
-## Code Setting
+## 📌Code Setting
 📦Assets     
  ┣ 📂ScriptableObjects    
  ┃ ┣ 📂Scripts ▶ ScriptableObject를 이용한 스크립트       
