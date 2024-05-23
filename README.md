@@ -16,7 +16,7 @@
 ![image](https://github.com/ACEDIA2567/SlimeSurvival_SourceCode/assets/101154683/196a6f5d-b9d5-4327-89f3-2bc3fe8a66e1)    
 
 ## 진행 방식
-![SlimeGif](https://github.com/ACEDIA2567/SlimeSurvival_SourceCode/assets/101154683/a2897f92-019c-4a95-96f0-e243c5a7761c)
+![SlimeGif](https://github.com/ACEDIA2567/SlimeSurvival_SourceCode/assets/101154683/a2897f92-019c-4a95-96f0-e243c5a7761c)    
 **다가오는 슬라임을 향해 공격하여 슬라임으로부터 살아남으세요!**    
 
 ![image](https://github.com/ACEDIA2567/SlimeSurvival_SourceCode/assets/101154683/839adba9-db70-4f3e-93f2-6f87d94400c0)    
