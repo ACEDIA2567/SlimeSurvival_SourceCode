@@ -11,6 +11,9 @@
 | 처음 화면 | 진행 화면 | 엔딩 화면 |
 | ------------ | ------------- |------------- |
 | ![image](https://github.com/ACEDIA2567/SlimeSurvival_SourceCode/assets/101154683/abe48437-097c-4138-952c-b9c21f9a8a95) | ![image](https://github.com/ACEDIA2567/SlimeSurvival_SourceCode/assets/101154683/c357cf12-bfcc-4034-a65a-4314ae3dc8f7)  | ![image](https://github.com/ACEDIA2567/SlimeSurvival_SourceCode/assets/101154683/e9fdefb7-cef7-4a18-8554-2ea37dc4fdca)  |
+- **게임 시작 시 버튼을 눌러 게임을 진행할 수 있습니다.**    
+- **오른쪽 위의 Start버튼을 눌러 스테이지를 시작할 수 있습니다.**    
+- **플레이어의 체력이 0이 되면 죽게 되며 게임오버가 됩니다.**    
 
 ## 프로젝트 진행 순서
 ![image](https://github.com/ACEDIA2567/SlimeSurvival_SourceCode/assets/101154683/196a6f5d-b9d5-4327-89f3-2bc3fe8a66e1)    
