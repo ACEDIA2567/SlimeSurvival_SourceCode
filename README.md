@@ -28,7 +28,7 @@
 **상호작용: F**  
 
 
-## 📌Code Setting
+## 📌Code Directory
 >📦Assets     
  ┣ 📂ScriptableObjects    
  ┃ ┣ 📂Scripts ▶ ScriptableObject를 이용한 스크립트       
